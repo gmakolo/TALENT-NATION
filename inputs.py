@@ -1,3 +1,14 @@
+#conversion to float
+price = float(input(" Enter a price"))
+print(price + 2, "this is cheap")
+
+#conersion of int
+testScore = int(input("enter your score"))
+print(testScore +5 )
+
+# User input
+age = int(input("what year where you born"))
+print(age + 10 , "wow so young")
 #Final Practice Before the Next Lesson
 
 #Write a program that asks the user for:
@@ -21,3 +32,10 @@ faviourite =input("what is your favorite programming language:  ")
 print("hello", name , "!")
 print("You are", age , "years old. ")
 print("Your favorite programming language is ", faviourite )
+
+name = input("what is your name? ")
+favouriteColor = input("what is your faviourite color ")
+marry = input("are you ready for marriage ")
+print("helo", name)
+print("your favourite color is :",favouriteColor )
+print("would you marry me ", marry)

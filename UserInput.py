@@ -1,6 +1,0 @@
-name = input("what is your name? ")
-favouriteColor = input("what is your faviourite color ")
-marry = input("are you ready for marriage ")
-print("helo", name)
-print("your favourite color is :",favouriteColor )
-print("would you marry me ", marry)
