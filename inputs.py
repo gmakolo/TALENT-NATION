@@ -1,3 +1,22 @@
+"""
+Ask user for age → print age next year
+Task 2
+Ask for two numbers → print their sum
+Task 3 (Important)
+Ask for a price → add 10 → print new price
+"""
+#Answer:
+age = int(input("what is your age"))
+print("you will be ", age + 1, "years old next year")
+
+num = int(input("enter a numbers"))
+num1 = int(input("enter a num"))
+print(num + num1)
+
+price = float(input("enter price"))
+print(price + 10)
+
+
 #conversion to float
 price = float(input(" Enter a price"))
 print(price + 2, "this is cheap")
